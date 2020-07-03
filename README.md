@@ -3,6 +3,8 @@ Kaggle Digit Recognizer by Convolutional Neural Network implemented using Keras.
 
 Submitted Kernel with 98.35% score.
 
+With 10 EPOCH
+
 # Data
 Dataset: MNIST Handwritten digits
 
